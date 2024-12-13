@@ -1,0 +1,9 @@
+/node_modules
+/.pnp
+.pnp.js
+.yarn/install-state.gz
+
+/.next/
+/out/
+.DS_Store
+.env
